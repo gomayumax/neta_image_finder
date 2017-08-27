@@ -1,9 +1,5 @@
 <template>
-  <div id="wrapper">
-      <div>
-        <h1>hello</h1>
-      </div>
-  </div>
+  <h1>hello</h1>
 </template>
 
 <script>

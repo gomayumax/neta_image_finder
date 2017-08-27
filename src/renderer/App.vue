@@ -1,6 +1,13 @@
 <template>
   <div id="app">
-    <router-view></router-view>
+    <div id="header">
+      <md-toolbar>
+        <h1 class="md-title">Neta Image Finder</h1>
+      </md-toolbar>
+    </div>
+    <div>
+      <router-view></router-view>
+    </div>
   </div>
 </template>
 
